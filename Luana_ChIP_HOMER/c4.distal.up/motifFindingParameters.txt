@@ -1,0 +1,1 @@
+cmd = data/cluster-4.distal.up.bed mm10 results/c4.distal.up/ -size 200 -mask -p 8 -bg data/background.distal.bed -oligo -dumpFasta

@@ -1,0 +1,1 @@
+#Name (cmd = mergePeaks results/c4.proximal.up//bg.clean.pos results/c4.proximal.up//target.clean..pos -d 200 -cobound 1 -prefix results/c4.proximal.up//0.225568116949038.2.tmp)	chr	start	end	strand	stat	stat2	results/c4.proximal.up//target.clean..pos

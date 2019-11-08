@@ -1,0 +1,1 @@
+cmd = data/cluster-3.proximal.up.bed mm10 results/c3.proximal.up/ -size 200 -mask -p 8 -bg data/background.proximal.bed -dumpFasta

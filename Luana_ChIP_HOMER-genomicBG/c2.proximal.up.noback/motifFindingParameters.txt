@@ -1,0 +1,1 @@
+cmd = data/cluster-2.proximal.up.bed mm10 results/c2.proximal.up.noback/ -size 200 -mask -p 8 -dumpFasta

@@ -1,0 +1,1 @@
+cmd = data/cluster-3.distal.up.bed mm10 results/c3.distal.up.noback/ -size 200 -mask -p 8 -dumpFasta
